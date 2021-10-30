@@ -1,0 +1,14 @@
+Requirements:
+
+1. Err MSG when : 
+  a. email is empty 
+  b. password is empty
+  c. Mobile is empty 
+  d. agree terms checkbox not checked
+
+2. validation :
+  a. Email should  match the email pattern 
+  b. Phone Number should be an Orange number 
+  c. password should be 6-8 characters and contain mixed char
+
+Note : You can use boosted [Orange Branding]

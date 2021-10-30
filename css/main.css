@@ -1,0 +1,38 @@
+.nav-link {
+  color: #000;
+}
+
+.nav-link:focus, .nav-link:hover {
+  color: #f16e00;
+}
+
+.carousel-indicators .active {
+  background-color: #f16e00;
+}
+
+.submit-btn {
+  background-color: #f16e00;
+  font-weight: bold;
+  color: #000;
+  font-size: 18px;
+}
+
+.submit-btn:hover {
+  background-color: #000;
+  color: #f16e00;
+}
+
+.have-acc-btn {
+  background-color: transparent;
+  border: 2px solid #000;
+}
+
+.have-acc-btn:hover {
+  background-color: #000;
+  color: #FFF;
+}
+
+.err-msg {
+  color: #F00;
+  display: none;
+}
